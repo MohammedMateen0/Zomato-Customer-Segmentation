@@ -1,0 +1,3 @@
+Method,Cluster_Style,Handles_Outliers,Requires_K
+KMeans,Centroid-Based,No,Yes
+DBSCAN,Density-Based,Yes,No

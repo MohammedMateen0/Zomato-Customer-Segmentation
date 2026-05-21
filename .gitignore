@@ -1,0 +1,12 @@
+# datasets
+data/raw/
+data/processed/*.csv
+
+# models
+*.pkl
+
+# notebook checkpoints
+.ipynb_checkpoints/
+
+# cache
+__pycache__/
